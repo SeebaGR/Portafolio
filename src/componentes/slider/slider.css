@@ -1,0 +1,8 @@
+.swiper-slide{ text-align: center; }
+
+.swiper-wrapper{display:flex; align-items: center;}
+
+.swiper-pagination{bottom: -5px !important;}
+
+
+.slider-title{color: 	#a2c4c9; font-weight: 600;}
